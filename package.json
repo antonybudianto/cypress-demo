@@ -1,0 +1,10 @@
+{
+  "name": "cypress-demo",
+  "scripts": {
+    "cy": "cypress run --browser chrome",
+    "cyh": "cypress run --headed --browser chrome"
+  },
+  "devDependencies": {
+    "cypress": "^12.15.0"
+  }
+}
